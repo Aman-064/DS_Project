@@ -54,16 +54,20 @@ Customer Segmentation: Utilizing clustering algorithms (like K-Means) to group s
 
 ## 📁 Repository Structure
 
-├── ecommerce_df.csv          # The raw, uncleaned dataset
-├── cleaned_ecommerce_df.csv  # The final processed dataset 
-├── ecommerce_analysis.ipynb  # Jupyter Notebook containing all code & charts
-└── README.md                 # Project documentation
+├── ecommerce_df.csv            # The raw, uncleaned dataset
+
+├── cleaned_ecommerce_df.csv    # The final processed dataset 
+
+├── ecommerce_analysis.ipynb    # Jupyter Notebook containing all code & charts
+
+└── README.md                   # Project documentation
 
 ## Conclusion
 
 This project successfully demonstrates how foundational data wrangling and visualization techniques can be applied to real-world e-commerce datasets to identify hidden patterns and extract highly useful business insights.
 ### 👤 Author
-Aman Yadav 
-BCA (Data Science & Artificial Intelligence), 4th Semester
+ Aman Yadav
+
 📎 Note
+
 This project is developed for academic purposes as part of Data Science coursework.
